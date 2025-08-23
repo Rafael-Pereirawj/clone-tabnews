@@ -11,3 +11,4 @@ git config --local gpg.program ""
 
 
 git config --list --show-origin | grep -E "user.name|user.email|gpg|commit.gpgsign|tag.gpgsign"
+
